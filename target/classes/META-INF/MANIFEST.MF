@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: BPMN 2.0 with Activiti - Examples
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: pada
+Implementation-Vendor-Id: org.activiti.examples
+Build-Jdk: 1.8.0_71
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
